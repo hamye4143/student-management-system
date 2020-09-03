@@ -9,9 +9,9 @@ student management system
 
 
 
-### Screen Shot 1
+### 1. Screen Shot 1
 ![슬라이드1](https://user-images.githubusercontent.com/42745666/92077604-b950b280-edf7-11ea-9a3e-f4ea7294332f.JPG)
 
 
-### Screen Shot 2
+### 2. Screen Shot 2
 ![슬라이드2](https://user-images.githubusercontent.com/42745666/92077670-d8e7db00-edf7-11ea-8077-9906e03bbbed.JPG)
